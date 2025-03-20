@@ -7,4 +7,7 @@ Console.WriteLine("TV");
 
 
 
+
+Console.WriteLine("FRIDGE");
 Console.WriteLine("OVEN");
+
