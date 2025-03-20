@@ -3,3 +3,8 @@ Console.WriteLine("Light");
 Console.WriteLine("SOFA");
 Console.WriteLine("AC");
 Console.WriteLine("TV");
+
+
+
+
+Console.WriteLine("OVEN");
