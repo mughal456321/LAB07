@@ -1,0 +1,5 @@
+Console.WriteLine("BED");
+Console.WriteLine("Light");
+Console.WriteLine("SOFA");
+Console.WriteLine("AC");
+Console.WriteLine("TV");
